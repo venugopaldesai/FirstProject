@@ -1,0 +1,34 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+     background-color: lightblue
+    
+    
+    
+}
+.container{
+    width: 80%;
+    background-color: lightcyan;
+    background-position: center;
+    margin: auto;
+    border: 3px solid;
+    
+}
+button{
+    text-align: center;
+    padding-bottom: 80x;
+    padding-top: 80x;
+    width: 300px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+#increment-btn{
+    background-color: blue;
+    
+}
+#save-btn{
+    background-color: green;
+}
